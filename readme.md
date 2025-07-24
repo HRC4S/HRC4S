@@ -11,8 +11,8 @@
 - 🎓 Mahasiswa di **D3 Manajemen Informatika**
 - 🎨 Seorang **Graphic Designer** aktif di media digital dan cetak
 - 🔭 Currently working on: `Menejemen Buku - Streamlit`
-- 🌱 Learning: `Python`, `Streamlit`, `UI/UX Design`
-- 💬 Ask me about: Design, Web Dev, atau AI tools
+- 🌱 Learning: `Everything`
+- 💬 Ask me about: Design, Web Dev, atau Game Dev
 - ⚡ Fun fact: I design faster than my thoughts 🤯
 
 ---
@@ -42,7 +42,7 @@
 ### 🧰 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,py,html,css,js,bootstrap,github,vscode,linux,streamlit" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,py,html,css,js,bootstrap,github,vscode,linux,streamlit,c++,c#" />
 </p>
 
 ---
@@ -59,9 +59,9 @@
 
 ### 📫 Let’s Connect
 
-[![Instagram](https://img.shields.io/badge/-@dega.piani-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dega.piani)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/degaanjampiani)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Instagram](https://img.shields.io/badge/-@dega.piani-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dwega_/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dega-anjam-1a8b05376/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gedoldown@email.com)
 
 ---
 
