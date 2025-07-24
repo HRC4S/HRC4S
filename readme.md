@@ -42,7 +42,7 @@
 ### 🧰 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,py,html,css,js,bootstrap,github,vscode,linux,streamlit,c++,c#" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,py,html,css,js,bootstrap,github,vscode,linux,streamlit,c,c#" />
 </p>
 
 ---
