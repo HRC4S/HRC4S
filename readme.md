@@ -59,7 +59,7 @@
 
 ### 📫 Let’s Connect
 
-[![Instagram](https://img.shields.io/badge/-@dega.piani-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dwega_/)
+[![Instagram](https://img.shields.io/badge/-@dwega-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dwega_/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dega-anjam-1a8b05376/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gedoldown@email.com)
 
